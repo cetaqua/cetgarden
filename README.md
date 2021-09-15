@@ -12,7 +12,7 @@ La hidroponía o agricultura hidropónica es un método utilizado para cultivar 
 
 ## Montaje del sistema
 
-Al sistema hidropónico convencional se añadirán los sensores necesarios. El sensor de temperatura y humedad [DHT22](shorturl.at/hkuE7) se colocará en un punto cualquiera, lo más cercano posible al cultivo. La camará [NoIR](shorturl.at/bpFJS) se colocará en un punto elevado, apuntando al cultivo y desde la posición más cenital posible. Las [celdas de carga](https://www.amazon.es/gp/product/B0888DXP3K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) se colocarán una en cada tren, siguiendo la disposición de la siguiente figura.
+Al sistema hidropónico convencional se añadirán los sensores necesarios. El sensor de temperatura y humedad [DHT22](shorturl.at/hkuE7) se colocará en un punto cualquiera, lo más cercano posible al cultivo. La camara [NoIR](shorturl.at/bpFJS) se colocará en un punto elevado, apuntando al cultivo y desde la posición más cenital posible. Las [celdas de carga](https://www.amazon.es/gp/product/B0888DXP3K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) se colocarán una en cada tren, siguiendo la disposición de la siguiente figura.
 
 ![esquemacelda](https://i.ibb.co/1ZRS9SX/esquema-Apoyos.png)
 
