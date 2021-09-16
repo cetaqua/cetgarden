@@ -17,7 +17,7 @@ Al sistema hidropónico convencional se añadirán los sensores necesarios. El s
 ![](/media/esquemaApoyos.png)
 
 
-# Dependencias
+## Dependencias
 **Schedule:** 
 
 ```
@@ -44,7 +44,7 @@ sudo apt-get install libgpiod2
 sudo apt-get install python3-picamera
 ```
 
-# Conexion DHT22 en Rpi 4B
+## Conexion DHT22 en Rpi 4B
 Con el comando pinout desde la terminal de la rpi obtenemos un mapa de los GPIO
 - Conectar positivo a alimentación 5V de la rpi
 - Conectar salido del sensor (patilla central marcada como "out") al GPIO4
