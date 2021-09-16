@@ -1,4 +1,4 @@
-![welcome](https://i.ibb.co/5FjKB7x/welcome-to-the-jungle2.png)
+![](/media/welcome-to-the-jungle3.png)
 
 # Cetgarden
 
@@ -8,13 +8,13 @@ Software para monitorización de cultivo hidropónico de uno o más trenes, medi
 
 La hidroponía o agricultura hidropónica es un método utilizado para cultivar plantas usando disoluciones minerales en vez de suelo agrícola. Las raíces reciben una solución nutritiva y equilibrada disuelta en agua con los elementos químicos esenciales para el desarrollo de las plantas, que pueden crecer en una solución acuosa únicamente, o bien en un medio inerte, como arena lavada, grava o perlita, entre muchas otras.
 
-![welcome](https://i.ibb.co/YQgBDqn/hydroponics-setup-guide.jpg)
+![](/media/hydroponics-setup-guide.jpg)
 
 ## Montaje del sistema
 
 Al sistema hidropónico convencional se añadirán los sensores necesarios. El sensor de temperatura y humedad [DHT22](shorturl.at/hkuE7) se colocará en un punto cualquiera, lo más cercano posible al cultivo. La camara [NoIR](shorturl.at/bpFJS) se colocará en un punto elevado, apuntando al cultivo y desde la posición más cenital posible. Las [celdas de carga](https://www.amazon.es/gp/product/B0888DXP3K/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) se colocarán una en cada tren, siguiendo la disposición de la siguiente figura.
 
-![esquemacelda](https://i.ibb.co/1ZRS9SX/esquema-Apoyos.png)
+![](/media/esquemaApoyos.png)
 
 
 # Dependencias
